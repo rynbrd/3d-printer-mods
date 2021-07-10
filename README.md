@@ -1,5 +1,9 @@
 # 3D Printer Mods
 
+This repo contains a collection of models I've designed or modified in order to
+improve my 3D printing operations. README's are included with specific mods
+where they are not self explanatory or a BOM is required.
+
 # License
 
 The contents of this repository are licensed under the GPL-3. See
