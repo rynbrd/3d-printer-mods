@@ -1,6 +1,6 @@
 # Voron 2.4 Panel Mods
 
-## Randell's M3 Hinges
+## panels/randell_hinge_mod
 
 This is a modification to the [Randell's hinge mod] to allow the use of drop-in nuts instead of hammerhead nuts.
 
