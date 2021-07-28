@@ -8,7 +8,7 @@ This is a modification to the [Randell's hinge mod] to allow the use of drop-in 
 
 ## exhaust/no_exhaust
 
-This replaces the V2.4 exhaust grill and housing with a slimmed down version that only has a Bowden tube adapter.
+This mod eliminates the exhaust fan and filter and replaces it with a slimmed down grill and housing. You must implement your own filtering solution! Printing gives off harmful VOCs.
 
 
 [Voron 2.4]: https://vorondesign.com/voron2.4
