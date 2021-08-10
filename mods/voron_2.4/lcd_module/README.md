@@ -31,5 +31,5 @@ BOM:
 1. Use a small bit of superglue to attach the accent piece to the front of case_front.
 1. Place the LCD screen into the back of case_front.
 1. Affix case_rear to the back of the case using the M3x12 bolts.
-1. Install in the stock location using the t-nuts according to the mnaual.
+1. Install in the stock location using the t-nuts according to the manual.
 1. Install the knob on the LCD panel.
