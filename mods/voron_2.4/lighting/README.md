@@ -1,12 +1,12 @@
 # Voront 2.4 Lighting
 
-These are LED lighting add-ons for the Voron 2.4.
+This mod mounts low profile LED extrusions to the upper left and right t-slot extrusions of the V2.4.
 
-## LED Low Profile Extrusion Mounts
+![led lights assembled](images/led_fixture_assembled.jpg)
 
-These allow low profile LED extrusions to be mounted the the upper left and right t-slot extrusions of the V2.4.
+![led lights installed](images/led_fixture_installed.jpg)
 
-### BOM
+## BOM
 
 Print the following:
 - led_low_profile_extrusion_mount_left.stl
@@ -32,7 +32,7 @@ Required extrusion lengths:
 
 The BOM V2.4 uses 24 volt. Your LED strips should be powered from 24V unless you are providing for a different power source. The printed parts allow only two 24AWG wires to be routed the the strip so RGB strips are not supported. 
 
-### Assembly
+## Assembly
 
 1. Cut the extrusions to the appropriate length. Chamfer the edges so that they can slide into the mounts.
 1. Cut the LED strips to fit the extrusions. There is some accomodation in the printed parts for the LED strips to be slightly longer than the LED extrusions.
